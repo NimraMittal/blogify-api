@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/NimraMittal/blogify-api#readme",
   "dependencies": {
+    "express": "^5.2.1",
     "nodemon": "^3.1.11"
   }
 }
