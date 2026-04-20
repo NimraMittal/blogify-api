@@ -31,3 +31,8 @@ git push -u origin feature/weather-cli
 ```
 
 Open a Pull Request from `feature/weather-cli` into `main` on GitHub.
+
+## Submission Artifacts
+
+- `COPILOT_PROCESS.md`: documented AI-assisted workflow.
+- `VIDEO_SCRIPT.md`: ready-to-use 2-3 minute demo narration outline.
