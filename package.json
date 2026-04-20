@@ -1,18 +1,16 @@
 {
   "name": "blogify-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Command-line weather app that prints current conditions for a city",
   "main": "index.js",
+  "bin": {
+    "weather": "index.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^5.2.1",
-    "nodemon": "^3.1.11"
-  }
+  "dependencies": {}
 }
