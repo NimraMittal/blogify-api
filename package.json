@@ -11,6 +11,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimraMittal/blogify-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NimraMittal/blogify-api/issues"
+  },
+  "homepage": "https://github.com/NimraMittal/blogify-api#readme",
   "dependencies": {
     "express": "^5.2.1",
     "nodemon": "^3.1.11"
